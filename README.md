@@ -1,14 +1,10 @@
 # Hi there! 👾 I'm Kavvam Ashwitha
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Aspiring+Web+Developer;Frontend+Enthusiast;Always+Learning+New+Things;Building+for+the+Web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Aspiring+Student;Always+Learning+New+Things;Building+for+the+Web)](https://git.io/typing-svg)
 
 ---
 
 👋 Welcome to my GitHub profile! I'm an aspiring web developer passionate about crafting engaging and intuitive user experiences. My journey in tech is fueled by curiosity and a desire to build impactful solutions. I'm currently honing my skills in modern web technologies and always eager to learn, collaborate, and contribute to exciting projects.
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashwitha2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
 
 ---
 
@@ -26,52 +22,68 @@
 
 Here's a glimpse into the technologies I enjoy working with and am actively learning:
 
-### 💻 Programming Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<!-- TODO: Add/remove languages based on your actual skills and focus -->
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+---
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## 📊 Data Analysis & Visualization
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+---
 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-<!-- TODO: Add your actual frameworks -->
+## 📐 Data Processing & Python Libraries
 
-### 🗄️ Databases & Tools
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4E8CCF?style=for-the-badge&logo=python&logoColor=white)
 
+---
+
+## 🗄️ Databases & Querying
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
+## ☁️ Data Engineering & Cloud (Foundational)
+
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-FF6F00?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20Basics-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP%20Basics-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+## 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<!-- TODO: Add your databases and other tools -->
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 🧠 Core Analytics Concepts
+
+![EDA](https://img.shields.io/badge/EDA-008080?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-6A5ACD?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-20B2AA?style=for-the-badge)
+![Business Insights](https://img.shields.io/badge/Business%20Insights-2E8B57?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Contributions & Analytics
-
-Exploring my journey and activity on GitHub:
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashwitha2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwitha2004&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-### 🏆 My GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwitha2004&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
-</p>
 
 ### 📈 Daily Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwitha2004&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
@@ -83,60 +95,6 @@ Exploring my journey and activity on GitHub:
 
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/ashwitha2004" alt="Contribution Calendar" width="100%"/>
-
-### ⚡ Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--
-  This section will be automatically updated by a GitHub Action.
-  For instructions on how to set this up, check:
-  https://github.com/ashwitha2004/.github/blob/main/.github/workflows/activity-updater.yml
--->
-- 🗣️ Commented on [#3](https://github.com/ashwitha2004/Basic-HTML-page/issues/3) in [ashwitha2004/Basic-HTML-page](https://github.com/ashwitha2004/Basic-HTML-page)
-- 🗣️ Commented on [#3](https://github.com/ashwitha2004/Basic-HTML-page/issues/3) in [ashwitha2004/Basic-HTML-page](https://github.com/ashwitha2004/Basic-HTML-page)
-- 🗣️ Commented on [#3](https://github.com/ashwitha2004/Basic-HTML-page/issues/3) in [ashwitha2004/Basic-HTML-page](https://github.com/ashwitha2004/Basic-HTML-page)
-- 🗣️ Commented on [#3](https://github.com/ashwitha2004/Basic-HTML-page/issues/3) in [ashwitha2004/Basic-HTML-page](https://github.com/ashwitha2004/Basic-HTML-page)
-- 🗣️ Commented on [#3](https://github.com/ashwitha2004/Basic-HTML-page/issues/3) in [ashwitha2004/Basic-HTML-page](https://github.com/ashwitha2004/Basic-HTML-page)
-<!--END_SECTION:activity-->
-
----
-
-## 🏗️ Featured Projects & Creations
-
-Here are some projects that showcase my skills and interests. Each one represents a learning opportunity and a step forward in my development journey.
-
-<div align="center">
-
-### 🌟 [Project Name 1: Interactive Portfolio Site](https://github.com/ashwitha2004/Portfolio-Website) <!-- TODO: Replace with actual project name and link -->
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwitha2004&repo=Portfolio-Website&theme=tokyonight)](https://github.com/ashwitha2004/Portfolio-Website) <!-- TODO: Replace REPO_NAME with actual repo -->
-
-**Tech Stack:** HTML • CSS • JavaScript • React
-**Status:** 🚀 Under Development | ⭐ 0 Stars | 🍴 0 Forks <!-- TODO: Update based on actual project metrics -->
-*A dynamic personal portfolio website designed to showcase my projects, skills, and resume. Built with modern frontend practices.*
-
----
-
-### 🔥 [Project Name 2: E-commerce Product Page](https://github.com/ashwitha2004/E-Commerce-Product-Page) <!-- TODO: Replace with actual project name and link -->
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwitha2004&repo=E-Commerce-Product-Page&theme=tokyonight)](https://github.com/ashwitha2004/E-Commerce-Product-Page) <!-- TODO: Replace REPO_NAME with actual repo -->
-
-**Tech Stack:** HTML • CSS • JavaScript
-**Status:** ✅ Complete | ⭐ 0 Stars | 🍴 0 Forks <!-- TODO: Update based on actual project metrics -->
-*A responsive and interactive product page for an e-commerce platform, focusing on user experience and clean design. Features a dynamic image gallery and add-to-cart functionality.*
-
----
-
-### ⚡ [Project Name 3: Task Management App](https://github.com/ashwitha2004/todo-app-react) <!-- TODO: Replace with actual project name and link -->
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwitha2004&repo=todo-app-react&theme=tokyonight)](https://github.com/ashwitha2004/todo-app-react) <!-- TODO: Replace REPO_NAME with actual repo -->
-
-**Tech Stack:** React • CSS Modules
-**Status:** 🚧 In Development | ⭐ 0 Stars | 🍴 0 Forks <!-- TODO: Update based on actual project metrics -->
-*A simple yet effective task management application built with React, demonstrating component-based architecture and state management.*
-
-</div>
-
----
 
 ## 🎯 My Goals for 2024
 
