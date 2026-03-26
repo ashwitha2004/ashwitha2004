@@ -1,153 +1,126 @@
-# Hi there! 👾 I'm Kavvam Ashwitha
+# Hi there! 👋 I'm Kavvam Ashwitha
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Aspiring+Student;Always+Learning+New+Things;Building+for+the+Web)](https://git.io/typing-svg)
-
----
-
-👋 Welcome to my GitHub profile! I'm an aspiring web developer passionate about crafting engaging and intuitive user experiences. My journey in tech is fueled by curiosity and a desire to build impactful solutions. I'm currently honing my skills in modern web technologies and always eager to learn, collaborate, and contribute to exciting projects.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Python+Developer;Building+AI+Powered+Applications;Generative+AI+%7C+MERN+Stack+%7C+Automation)](https://git.io/typing-svg)
 
 ---
 
-## 🎯 Current Focus & Learning Journey
+# 👩‍💻 About Me
 
-- 🔭 Working on: **Building interactive web applications** <!-- TODO: Add your current main project or a specific type of project you're focusing on -->
-- 🌱 Learning: **Advanced React patterns & Node.js backend development** <!-- TODO: Add what specific technology/skill you're currently learning -->
-- 👯 Looking to collaborate on: **Frontend development tasks, open source projects for beginners, or full-stack web projects**
-- 💬 Ask me about: **JavaScript, HTML, CSS, and basic web development principles** <!-- TODO: Add your current areas of expertise -->
-- ⚡ Fun fact: **I love to solve puzzles in my free time, which often helps me debug code!** <!-- TODO: Add a fun fact about you -->
+🚀 Full Stack Developer | AI Engineer | Python Developer  
+💡 Passionate about building **AI-powered applications, automation systems, and scalable web platforms**  
+
+I'm a **Data Science student** with hands-on experience in **Full Stack Development, AI/ML, Generative AI, and Python-based systems**. I enjoy solving real-world problems by combining **AI intelligence with scalable full-stack applications**.
+
+- 🔭 Currently Working On: **AI Agent & Automation Systems**
+- 🌱 Learning: **LangChain, LLMs, AI Agents, Advanced MERN Stack**
+- 👯 Looking to collaborate on: **AI + Full Stack Projects**
+- 💬 Ask me about: **React, Node.js, Python, AI/ML**
+- ⚡ Goal: **Build production-ready AI-driven applications**
 
 ---
 
-## 🛠️ My Developer Toolkit
+# 🚀 Featured Projects
 
-Here's a glimpse into the technologies I enjoy working with and am actively learning:
+## 🤖 Gen-AI Placement Management System
+**Tech Stack:** React.js, Node.js, MongoDB, Python, Gemini API  
+• Built Generative AI-powered resume analysis agent using LLMs and prompt engineering  
+• Developed end-to-end AI workflow automation improving recruitment efficiency  
 
-## 💻 Programming Languages
+---
+
+## 🧠 Lung Cancer Prediction System
+**Tech Stack:** Python, Scikit-learn, Pandas, NumPy  
+• Built machine learning model for lung cancer prediction using feature engineering  
+• Developed end-to-end AI pipeline for healthcare decision support  
+
+---
+
+## 🎵 AI Music Recommendation System
+**Tech Stack:** Python, Machine Learning, OpenCV  
+• Developed emotion-based music recommendation system using AI prediction models  
+• Built automated recommendation pipeline for real-time predictions  
+
+---
+
+# 🛠️ Tech Stack
+
+# 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
-## 📊 Data Analysis & Visualization
+# 🤖 AI / Machine Learning
 
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
----
-
-## 📐 Data Processing & Python Libraries
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4E8CCF?style=for-the-badge&logo=python&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-008080?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-20B2AA?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2E8B57?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4E8CCF?style=for-the-badge)
 
 ---
 
-## 🗄️ Databases & Querying
+# 🌐 Full Stack Development
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## ☁️ Data Engineering & Cloud (Foundational)
-
-![ETL](https://img.shields.io/badge/ETL%20Pipelines-FF6F00?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20Basics-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP%20Basics-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ---
 
-## 🛠️ Tools & Platforms
+# 📊 Data Science & Python Libraries
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 🧠 Core Analytics Concepts
-
-![EDA](https://img.shields.io/badge/EDA-008080?style=for-the-badge)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-6A5ACD?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-20B2AA?style=for-the-badge)
-![Business Insights](https://img.shields.io/badge/Business%20Insights-2E8B57?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Contributions & Analytics
+# 🛠️ Tools & Platforms
 
-### 📈 Daily Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwitha2004&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
-### 🔥 My Streak Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwitha2004&theme=tokyonight&hide_border=true"/>
-</p>
-
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/ashwitha2004" alt="Contribution Calendar" width="100%"/>
-
-## 🎯 My Goals for 2024
-
-- 🚀 Contribute to at least 5 open-source projects.
-- 📚 Deepen my understanding of backend development with Node.js and Express.
-- 🌟 Build a full-stack application from scratch.
-- 📝 Write a technical blog post on a topic I've mastered.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge)
 
 ---
 
-## 🌐 Let's Connect & Collaborate
+# 📈 GitHub Stats
 
-I'm always open to new opportunities, collaborations, and learning experiences. Feel free to reach out!
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwitha2004&show_icons=true&theme=tokyonight)
 
-<div align="center">
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ashwitha2004&theme=tokyonight)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavvam-ashwitha/) <!-- TODO: Add your LinkedIn profile URL -->
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwithareddykavvam39@gmail.com) <!-- TODO: ashwithareddykavvam39@gmail.com -->
-
-### 📱 Social Presence
-
-[![GitHub followers](https://img.shields.io/github/followers/ashwitha2004?style=social)](https://github.com/ashwitha2004)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwitha2004&layout=compact&theme=tokyonight)
 
 ---
 
-## ☕ Support My Work
+# 🎯 2025 Goals
 
-If you found my projects helpful or learned something from my code, consider supporting my work:
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
-
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ashwitha2004) <!-- TODO: Replace YOUR_USERNAME with your GitHub username -->
-
-</div>
-
-<div align="center">
-  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
-</div>
+🚀 Build AI Agents & Automation Systems  
+🤖 Develop Production-Ready AI Applications  
+🌍 Contribute to Open Source Projects  
+💻 Build Scalable Full Stack Platforms  
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashwitha2004&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+# 🌐 Connect With Me
 
-  ### 🚀 "Code is poetry, and every commit tells a story"
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kavvam-ashwitha/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:ashwithareddykavvam39@gmail.com)
 
-  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
-</div>
+---
 
+# 🚀 "Building Intelligent Systems with AI + Full Stack"
+
+⭐ Full Stack Developer  
+⭐ AI Engineer  
+⭐ Python Developer  
+⭐ Always Learning & Building
